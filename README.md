@@ -12,7 +12,7 @@
   - If you are asked whether you are sure you want to continue, enter `yes`
   - Enter your GPU Sever password
 - Optional: Enter `ssh $u@gpu-server.dhlab.intra.uni-freiburg.de "hostname"` to test whether everything worked
-  - You should get `gpu-dhlab`
+  - You should directly get `gpu-dhlab` without being asked for a password
 
 ## Set up SSH (Linux and probably also Mac)
 
