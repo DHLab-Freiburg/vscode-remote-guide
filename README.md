@@ -44,7 +44,7 @@
 - Click the `≶` Icon in the bottom left corner
 - Select `Connect to Host...`
 - Select `gpu-server.dhlab.intra.uni-freiburg.de`
-- If you are asked to selected the plaform of the remote host, select `Linux`
+- If you are asked to select the plaform of the remote host, select `Linux`
 
 ## Using Jupyter Notebooks
 
@@ -54,6 +54,6 @@
 - Select `Python Environments...`
 - Select `Create Python Environment`
 - Choose `Venv` or `Conda`, whichever you prefer
-- Choose `/bin/python3`
+- Choose `/bin/python3` or `/usr/bin/python3`
 
 If you need a specific Python version, use [`uv`](https://docs.astral.sh/uv/getting-started/installation/) to manage your virtual environment.
